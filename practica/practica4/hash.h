@@ -14,6 +14,8 @@ Element *elements;
 
 int count;
 
+int size;
+
 } HashElement;
 
 
